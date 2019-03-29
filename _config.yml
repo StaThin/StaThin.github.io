@@ -1,6 +1,6 @@
 
 title: Giovanni Marchetti home page
-email: giovanni.m.marchetti@unifi.it
+email: giovanni.marchetti@unifi.it
 plugins:
   - jekyll-relative-links
 relative_links:
