@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-
+title: Giovanni Marchetti home page
 plugins:
   - jekyll-relative-links
 relative_links:

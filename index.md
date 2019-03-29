@@ -1,5 +1,3 @@
-# Giovanni's home page
-
 ## Giovanni M. Marchetti 
 
 Professor in the [Department of Statistics, Computer Science, Applications](http://www.disia.unifi.it) "G. Parenti" 
