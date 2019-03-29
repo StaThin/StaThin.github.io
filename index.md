@@ -1,13 +1,11 @@
-Professor in the [Department of Statistics, Computer Science, Applications](http://www.disia.unifi.it) "G. Parenti" 
+Professor in the [Department of Statistics, Computer Science, Applications](http://www.disia.unifi.it) "G. Parenti", [University of Florence](http://www.unifi.it)
 
-[University of Florence](http://www.unifi.it)
-
-Office:  viale Morgagni, 59, 51134 Florence, Italy 
-Email: giovanni.marchetti at disia unifi.it  
-Phone: +39 055 275 1516
+  Office:  viale Morgagni, 59, 51134 Florence, Italy 
+  Email: giovanni.marchetti at disia unifi.it  
+  Phone: +39 055 275 1516
 
 
-## Main Interests
+### Main Interests
 Statistical inference and applied statistics
 
 My research is mainly in
