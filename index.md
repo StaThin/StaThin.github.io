@@ -1,7 +1,7 @@
 Professor in the [Department of Statistics, Computer Science, Applications](http://www.disia.unifi.it) "G. Parenti", [University of Florence](http://www.unifi.it)
 
   Office:  viale Morgagni, 59, 51134 Florence, Italy 
-  Email: giovanni.marchetti at disia unifi.it  
+  Email: giovanni.marchetti at unifi.it  
   Phone: +39 055 275 1516
 
 
