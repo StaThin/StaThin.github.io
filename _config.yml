@@ -19,8 +19,8 @@ links:
     url: /research/
   - title: Teaching
     url: /teaching/
-  - title: Software/Data
-    url: /softwaredata/
+  - title: Data
+    url: /data/
 
 
 theme: jekyll-theme-minimal
