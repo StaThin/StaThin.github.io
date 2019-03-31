@@ -1,12 +1,3 @@
 title: Giovanni Marchetti
-
-links:
-  - title: Research
-    url: /research/
-  - title: Teaching
-    url: /teaching/
-  - title: Data
-    url: /data/
-
-
+description: "Giovanni's home page"
 theme: jekyll-theme-minimal
