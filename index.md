@@ -4,13 +4,13 @@ Professor in the [Department of Statistics, Computer Science, Applications](http
   - Email: giovanni.marchetti at unifi.it  
   - Phone: +39 055 275 1516
 
-### Main Interests
+## Main Interests
 
  - Regression
  - Graphical Models
  - Multivariate analysis
 
-### Some recent research projects: 
+## Some recent research projects: 
 
 - Parameterizations of chain graphs
 - Graphical models for binary data
