@@ -1,5 +1,4 @@
-
-### Some Papers
+## Some Papers
 
 Lombardi S., Santini G., Marchetti G. M., Focardi S. (2017) Generalized structural equations improve sexual-selection analyses. PLoS ONE12(8): e0181305. https://doi.org/10.1371/journal.pone.0181305
 
