@@ -10,7 +10,7 @@ Professor in the [Department of Statistics, Computer Science, Applications](http
  - Graphical Models
  - Multivariate analysis
 
-## Some recent research projects: 
+## Some recent research projects
 
 - Parameterizations of chain graphs
 - Graphical models for binary data
