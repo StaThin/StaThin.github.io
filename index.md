@@ -27,7 +27,7 @@ Professor in the [Department of Statistics, Computer Science, Applications](http
 
 ## Teaching
 
-- Statistics 
+- [B000365 (B036) - STATISTICA (CURRICULUM: APPLICATIVO - C76) 2018-2019](https://e-l.unifi.it/course/view.php?id=9557) 
 - Statistics
 
 ## Software
