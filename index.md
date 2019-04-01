@@ -33,6 +33,6 @@ Professor in the [Department of Statistics, Computer Science, Applications](http
 ## Software
 
 - ggm 
-- [Datasets](./data/)
+
 
 
